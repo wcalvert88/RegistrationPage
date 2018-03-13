@@ -1,0 +1,14 @@
+{
+  "name": "registrationproject",
+  "version": "1.0.0",
+  "description": "Registration template to use on other projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wade Calvert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
